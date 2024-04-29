@@ -1,8 +1,10 @@
 Hi, I’m Prantik.
-
 I’m interested in DS and ML
 
-Pronouns: he/his
+
+https://twitter.com/anam_prantik_
+https://www.linkedin.com/in/hibrul-anam-prantik-32516b306/
+https://www.facebook.com/profile.php?id=100083054416847
 
 <!---
 Hibrul-Anam-Prantik/Hibrul-Anam-Prantik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
