@@ -1,10 +1,16 @@
 # Hi, I’m Prantik.
 
+
+### I'm new here; exploring.
+
+
 ### I’m interested in DS and ML
+
 
 ## Skills
 - **Java**
 - **Python**
+
 
 
 ## Github Stats
