@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Hibrul-Anam-Prantik&show_icons=true&count_private=true&theme=dark" alt="Hibrul-Anam-Prantik" />
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Hibrul-Anam-Prantik&theme=dark&card_width=466&ring=76F893&fire=76F893&currStreakLabel=76F893)])](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hibrul-Anam-Prantik&theme=dark&card_width=466&ring=76F893&fire=76F893&currStreakLabel=76F893)](https://git.io/streak-stats)
 
  
 
