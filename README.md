@@ -11,7 +11,7 @@
 
 ## Problem Solving and Competitive Programming
 
-[Codeforces](https://codeforces.com/profile/Prantik_) | [Leetcode](https://leetcode.com/Anam_Prantik/) | [HackerRank](https://www.hackerrank.com/profile/hibrul_anam_pra1)
+[Leetcode](https://leetcode.com/Anam_Prantik/) | [Codeforces](https://codeforces.com/profile/Prantik_)| [HackerRank](https://www.hackerrank.com/profile/hibrul_anam_pra1)
 
 <p float="left">
 <a href="https://codeforces.com/profile/Prantik_">
