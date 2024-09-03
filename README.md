@@ -6,7 +6,6 @@
 
 ## Skills
 - **Java**
-- **Python**
 
 
 ## Problem Solving and Competitive Programming
