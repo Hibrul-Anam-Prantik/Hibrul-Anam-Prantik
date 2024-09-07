@@ -10,14 +10,15 @@
 
 ## Problem Solving and Competitive Programming
 
-[HackerRank](https://www.hackerrank.com/profile/hibrul_anam_pra1) | [Codeforces](https://codeforces.com/profile/Prantik_) | [Leetcode](https://leetcode.com/Anam_Prantik/)
+| [HackerRank](https://www.hackerrank.com/profile/hibrul_anam_pra1) | [Leetcode](https://leetcode.com/Anam_Prantik/) | [Codeforces](https://codeforces.com/profile/Prantik_) |
 
 <p float="left">
-<a href="https://codeforces.com/profile/Prantik_">
-    <img height="220em" src="https://codeforces-readme-stats.vercel.app/api/card?username=Prantik_&theme=dark&force_username=true" /></a>
-    
 <a href="https://leetcode.com/Anam_Prantik/">
     <img height="220em" src="https://leetcard.jacoblin.cool/Anam_Prantik?theme=dark&font=ABeeZee&ext=heatmap" /></a>
+    
+<a href="https://codeforces.com/profile/Prantik_">
+    <img height="220em" src="https://codeforces-readme-stats.vercel.app/api/card?username=Prantik_&theme=dark&force_username=true" /></a>
+
 </p>
 <br>
 
