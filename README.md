@@ -1,7 +1,7 @@
 # Hi, I’m Prantik.
 
 
-### I’m interested in DS and ML
+### I’m interested in DS, ML & AI
 
 
 ## Skills
