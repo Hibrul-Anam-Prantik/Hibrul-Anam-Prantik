@@ -22,9 +22,6 @@
 </p>
 <br>
 
-### Facebook
- **[<img src='https://i.pinimg.com/236x/1f/5a/be/1f5abedf431a1de761e01ad6e1be6c4f.jpg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100083054416847)**
-  
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hibrul-Anam-Prantik&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Hibrul-Anam-Prantik/github-readme-stats)
 
