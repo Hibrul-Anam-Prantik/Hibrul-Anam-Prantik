@@ -7,6 +7,7 @@
 ## Skills
 - **Java**
 - **OOP**
+- **C**
 
 
 ## Problem Solving and Competitive Programming
