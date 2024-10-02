@@ -4,6 +4,11 @@
 ### I’m interested in DS, ML & AI
 
 
+## Languages
+- **Java**
+- **C**
+
+
 ## Skills
 - **OOP**
 - **Problem Solving**
