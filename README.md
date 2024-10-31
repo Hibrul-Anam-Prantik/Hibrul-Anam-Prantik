@@ -7,6 +7,7 @@
 ## Language
 - **Java**
 - **C**
+- **Python**
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hibrul-Anam-Prantik&theme=dark&layout=compact&align=right&width=40%)](https://github.com/Hibrul-Anam-Prantik/github-readme-stats)
 
