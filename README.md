@@ -15,6 +15,7 @@
 ## Skill
 - **OOP**
 - **Problem Solving**
+- **Web Development**
   
 
 
