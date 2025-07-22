@@ -95,9 +95,16 @@
 
 ## 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hibrul.anam.prantik@g.bracu.ac.bd)    hibrul.anam.prantik@g.bracu.ac.bd  
+<p align="center">
+  <a href="https://www.linkedin.com/in/hibrul-anam-prantik-32516b306" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hibrul.anam.prantik@g.bracu.ac.bd" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hibrul-anam-prantik-32516b306)   [linkedin.com/in/hibrul-anam-prantik](https://www.linkedin.com/in/hibrul-anam-prantik-32516b306)
 
 
 ⭐️ Thanks for visiting my profile! Let’s build something amazing together. 🌟
