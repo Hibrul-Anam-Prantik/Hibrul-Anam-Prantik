@@ -35,7 +35,17 @@
 
 ## 🏆 Competitive Programming & Problem Solving
 		
-| [HackerRank](https://www.hackerrank.com/profile/hibrul_anam_pra1) | [LeetCode](https://leetcode.com/Anam_Prantik/) | [codeforces](https://codeforces.com/profile/Prantik_) |
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/hibrul_anam_pra1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/Anam_Prantik/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/Prantik_">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+</p>
 
 
 <p align="center"> <a href="https://leetcode.com/Anam_Prantik/"> <img height="220em" src="https://leetcard.jacoblin.cool/Anam_Prantik?theme=dark&font=ABeeZee&ext=heatmap" /> </a> <a href="https://codeforces.com/profile/Prantik_"> <img height="220em" src="https://codeforces-readme-stats.vercel.app/api/card?username=Prantik_&theme=dark&force_username=true" /> </a> </p>
