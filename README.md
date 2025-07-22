@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Hibrul Anam Prantik
-   ✨ CS Undergrad | Passionate Programmer | Future ML & AI Enthusiast
+
 
 ## 🚀 About Me
 🎓 Currently: Exploring Data Structures & Algorithms, DevOps, Machine Learning, and AI
