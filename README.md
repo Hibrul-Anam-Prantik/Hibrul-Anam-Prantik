@@ -123,7 +123,7 @@
 A web-based platform to track and manage rule violations in residential flats. Users can log offences, view offence history, and monitor repeat offenders in real-time using Firebase.
 
 - 🔧 Tech Stack: HTML, CSS, JavaScript, **Firebase (Realtime Database & Hosting)**
-- 📁 Repo: [Offence-Tracker](https://github.com/Hibrul-Anam-Prantik/Offence-Tracker)
+- 📁 Repo: [Offence-Tracker]([https://github.com/Hibrul-Anam-Prantik/Offence-Tracker](https://hibrul-anam-prantik.github.io/Offence-Tracker/))
 - 🌐 Live Preview: *https://github.com/Hibrul-Anam-Prantik*
 
 <img src="https://github.com/Hibrul-Anam-Prantik/Offence-Tracker/assets/your-image-id.gif" width="700"/>
