@@ -124,10 +124,23 @@ A web-based platform to track and manage rule violations in residential flats. U
 
 - 🔧 Tech Stack: HTML, CSS, JavaScript, **Firebase (Realtime Database & Hosting)**
 - 📁 Repo: [Offence-Tracker]([https://github.com/Hibrul-Anam-Prantik/Offence-Tracker](https://hibrul-anam-prantik.github.io/Offence-Tracker/))
-- 🌐 Live Preview: *https://github.com/Hibrul-Anam-Prantik*
+- 🌐 Live Preview: [https://hibrul-anam-prantik.github.io/Offence-Tracker/](https://hibrul-anam-prantik.github.io/Offence-Tracker/)
 
 <img src="https://github.com/Hibrul-Anam-Prantik/Offence-Tracker/assets/your-image-id.gif" width="700"/>
 
+---
 
+### 💧 Water-Bill-Splitter
+[![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow?logo=firebase&logoColor=white&style=flat-square)](https://firebase.google.com/)
+
+A simple and effective web app to split water bills among flat members. Tracks total bills and dynamically splits the amount between all users with live updates using Firebase.
+
+- 🔧 Tech Stack: HTML, CSS, JavaScript, **Firebase (Realtime Database & Hosting)**
+- 📁 Repo: [Water-Bill-Splitter](https://github.com/Hibrul-Anam-Prantik/Water-Bill-Splitter)
+- 🌐 Live Preview: [https://hibrul-anam-prantik.github.io/Water-Bill-Splitter/](https://hibrul-anam-prantik.github.io/Water-Bill-Splitter/)
+
+<img src="https://github.com/Hibrul-Anam-Prantik/Water-Bill-Splitter/assets/your-image-id.gif" width="700"/>
+
+---
 
 ⭐️ Thanks for visiting my profile! Let’s build something amazing together. 🌟
