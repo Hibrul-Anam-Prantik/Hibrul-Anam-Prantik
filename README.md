@@ -115,7 +115,25 @@
   </a>
 </p>
 
+---
+
 ## 📂 Featured Projects
+
+### 🎮 Game-TicTacToe
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)
+[![OOP](https://img.shields.io/badge/OOP-orange)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+[![2D Arrays](https://img.shields.io/badge/2D%20Arrays-purple)](https://en.wikipedia.org/wiki/Array_data_structure)
+[![Console Game](https://img.shields.io/badge/Console%20Game-ff69b4)](https://en.wikipedia.org/wiki/Console_application)
+
+A simple **console-based Tic Tac Toe** game built in Java using **OOP** and **2D arrays**.  
+This was my **first ever coding project**, created while learning the basics of Object-Oriented Programming.
+
+- 🔧 **Tech Stack:** Java (OOP, 2D Arrays)
+- 📁 **Repo:** [Game-TicTacToe](https://github.com/Hibrul-Anam-Prantik/Game-TicTacToe)
+- 📸 **Preview:**  
+  <img width="300" height="400" src="https://github.com/user-attachments/assets/0c48ee00-248e-4e7d-b71d-a23e0edbafa6" /> <img width="300" height="400" src="https://github.com/user-attachments/assets/754f2d50-460d-4201-8649-0f87e4dc6b2c" /> <img width="300" height="400" src="https://github.com/user-attachments/assets/e313a67d-8111-4f77-a003-8873a976275e" />
+
+---
 
 ### 🚨 Offence-Tracker
 [![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow?logo=firebase&logoColor=white&style=flat-square)](https://firebase.google.com/)
