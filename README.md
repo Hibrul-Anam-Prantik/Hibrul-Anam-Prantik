@@ -141,7 +141,7 @@ This was my **first ever coding project**, created while learning the basics of 
 A web-based platform to track and manage rule violations in residential flats. Users can log offences, view offence history, and monitor repeat offenders in real-time using Firebase.
 
 - 🔧 Tech Stack: HTML, CSS, JavaScript, **Firebase (Realtime Database & Hosting)**
-- 📁 Repo: [Offence-Tracker]([https://github.com/Hibrul-Anam-Prantik/Offence-Tracker](https://hibrul-anam-prantik.github.io/Offence-Tracker/))
+- 📁 Repo: [Offence-Tracker](https://github.com/Hibrul-Anam-Prantik/Offence-Tracker)
 - 🌐 Live Preview: [https://hibrul-anam-prantik.github.io/Offence-Tracker/](https://hibrul-anam-prantik.github.io/Offence-Tracker/)
 
 <img src="https://github.com/Hibrul-Anam-Prantik/Offence-Tracker/assets/your-image-id.gif" width="700"/>
