@@ -6,7 +6,7 @@
 ## 🚀 About Me
 🎓 Currently: Exploring Data Structures & Algorithms, DevOps, Machine Learning, and AI
 
-💻 Passionate about Problem Solving & Competitive Programming
+💻 Passionate about Problem Solving & Learning new things
 
 🌱 Learning Web Development and advanced OOP design
 
