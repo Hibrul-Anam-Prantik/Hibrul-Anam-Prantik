@@ -62,6 +62,9 @@
 
 ✅ Web Development
 
+✅ Databases (SQL, MySQL, MySQL Workbench)
+
+
 ## 🛠️ Tools
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
