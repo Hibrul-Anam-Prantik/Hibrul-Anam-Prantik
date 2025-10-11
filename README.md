@@ -41,9 +41,16 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=v13GOfYIdvlQ&format=png&color=000000" alt="SQL" width="45" height="45"/>
+  </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hibrul-Anam-Prantik&layout=compact&theme=tokyonight" height="180em" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hibrul-Anam-Prantik&layout=compact&theme=tokyonight" height="180em" />
+</p>
+
 
 
 ### 🚧 Skills
@@ -75,6 +82,9 @@
 	&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+  </a>
+	<a href="https://www.mysql.com/products/workbench/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
   </a>
 </p>
 
