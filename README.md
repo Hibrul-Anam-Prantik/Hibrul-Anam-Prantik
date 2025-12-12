@@ -172,7 +172,9 @@ A classic Guess The Number web game built to solidify foundational skills in Jav
 
 Key Features: Highscore tracking, game state locking (disabling 'Check!' button on win/loss), and clear visual feedback (color changes).
 
-<img src="https://www.google.com/search?q=https://via.placeholder.com/700x300.png%3Ftext%3DPlaceholder%2BImage%2Bfor%2BGuess%2BThe%2BNumber%2BGame" width="700"/>
+<img src="https://github.com/Hibrul-Anam-Prantik/DX-Guess-The-Number-GAME/blob/main/Screenshot%202025-12-12%20at%204.19.20%E2%80%AFPM.jpg"/>
+<img src="https://github.com/Hibrul-Anam-Prantik/DX-Guess-The-Number-GAME/blob/main/Screenshot%202025-12-12%20at%204.22.51%E2%80%AFPM.jpg"/>
+<img src="https://github.com/Hibrul-Anam-Prantik/DX-Guess-The-Number-GAME/blob/main/Screenshot%202025-12-12%20at%204.23.51%E2%80%AFPM.jpg"/>
 ---
 
 ⭐️ Thanks for visiting my profile! Let’s build something amazing together. 🌟
