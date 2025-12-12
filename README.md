@@ -147,6 +147,24 @@ This was my **first ever coding project**, created while learning the basics of 
 
 ---
 
+
+🔢 DX - Guess The Number Game
+
+A classic Guess The Number web game built to solidify foundational skills in JavaScript DOM manipulation, state management, and event handling.
+
+🔧 Tech Stack: HTML, CSS, JavaScript (DOM Manipulation, if/else logic, setTimeout, let variable management)
+
+📁 Repo: [DX-Guess-The-Number-GAME](https://github.com/Hibrul-Anam-Prantik/DX-Guess-The-Number-Game)
+
+🌐 Live Preview: https://hibrul-anam-prantik.github.io/DX-Guess-The-Number-GAME/
+
+Key Features: Highscore tracking, game state locking (disabling 'Check!' button on win/loss), and clear visual feedback (color changes).
+
+<img width = "320" src="https://github.com/Hibrul-Anam-Prantik/DX-Guess-The-Number-GAME/blob/main/Screenshot%202025-12-12%20at%204.19.20%E2%80%AFPM.jpg"/> <img width = "320" src="https://github.com/Hibrul-Anam-Prantik/DX-Guess-The-Number-GAME/blob/main/Screenshot%202025-12-12%20at%204.22.51%E2%80%AFPM.jpg"/> <img width = "320" src="https://github.com/Hibrul-Anam-Prantik/DX-Guess-The-Number-GAME/blob/main/Screenshot%202025-12-12%20at%204.23.51%E2%80%AFPM.jpg"/>
+
+
+---
+
 ### 🚨 Offence-Tracker
 [![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow?logo=firebase&logoColor=white&style=flat-square)](https://firebase.google.com/)
 
@@ -156,25 +174,8 @@ A web-based platform to track and manage rule violations in residential flats. U
 - 📁 Repo: [Offence-Tracker](https://github.com/Hibrul-Anam-Prantik/Offence-Tracker)
 - 🌐 Live Preview: [https://hibrul-anam-prantik.github.io/Offence-Tracker/](https://hibrul-anam-prantik.github.io/Offence-Tracker/)
 
-<img src="https://github.com/Hibrul-Anam-Prantik/Offence-Tracker/assets/your-image-id.gif" width="700"/>
+<img src="https://github.com/Hibrul-Anam-Prantik/Offence-Tracker/blob/master/Screenshot%202025-12-12%20at%204.38.40%E2%80%AFPM.jpg" width="800"/>
 
----
-
-🔢 DX - Guess The Number Game
-
-A classic Guess The Number web game built to solidify foundational skills in JavaScript DOM manipulation, state management, and event handling.
-
-🔧 Tech Stack: HTML, CSS, JavaScript (DOM Manipulation, if/else logic, setTimeout, let variable management)
-
-📁 Repo: DX-Guess-The-Number-GAME
-
-🌐 Live Preview: https://hibrul-anam-prantik.github.io/DX-Guess-The-Number-GAME/
-
-Key Features: Highscore tracking, game state locking (disabling 'Check!' button on win/loss), and clear visual feedback (color changes).
-
-<img src="https://github.com/Hibrul-Anam-Prantik/DX-Guess-The-Number-GAME/blob/main/Screenshot%202025-12-12%20at%204.19.20%E2%80%AFPM.jpg"/>
-<img src="https://github.com/Hibrul-Anam-Prantik/DX-Guess-The-Number-GAME/blob/main/Screenshot%202025-12-12%20at%204.22.51%E2%80%AFPM.jpg"/>
-<img src="https://github.com/Hibrul-Anam-Prantik/DX-Guess-The-Number-GAME/blob/main/Screenshot%202025-12-12%20at%204.23.51%E2%80%AFPM.jpg"/>
 ---
 
 ⭐️ Thanks for visiting my profile! Let’s build something amazing together. 🌟
