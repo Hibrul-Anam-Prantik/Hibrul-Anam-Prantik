@@ -160,17 +160,19 @@ A web-based platform to track and manage rule violations in residential flats. U
 
 ---
 
-### 💧 Water-Bill-Splitter
-[![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow?logo=firebase&logoColor=white&style=flat-square)](https://firebase.google.com/)
+🔢 DX - Guess The Number Game
 
-A simple and effective web app to split water bills among flat members. Tracks total bills and dynamically splits the amount between all users with live updates using Firebase.
+A classic Guess The Number web game built to solidify foundational skills in JavaScript DOM manipulation, state management, and event handling.
 
-- 🔧 Tech Stack: HTML, CSS, JavaScript, **Firebase (Realtime Database & Hosting)**
-- 📁 Repo: [Water-Bill-Splitter](https://github.com/Hibrul-Anam-Prantik/Water-Bill-Splitter)
-- 🌐 Live Preview: [https://hibrul-anam-prantik.github.io/Water-Bill-Splitter/](https://hibrul-anam-prantik.github.io/Water-Bill-Splitter/)
+🔧 Tech Stack: HTML, CSS, JavaScript (DOM Manipulation, if/else logic, setTimeout, let variable management)
 
-<img src="https://github.com/Hibrul-Anam-Prantik/Water-Bill-Splitter/assets/your-image-id.gif" width="700"/>
+📁 Repo: DX-Guess-The-Number-GAME
 
+🌐 Live Preview: https://hibrul-anam-prantik.github.io/DX-Guess-The-Number-GAME/
+
+Key Features: Highscore tracking, game state locking (disabling 'Check!' button on win/loss), and clear visual feedback (color changes).
+
+<img src="https://www.google.com/search?q=https://via.placeholder.com/700x300.png%3Ftext%3DPlaceholder%2BImage%2Bfor%2BGuess%2BThe%2BNumber%2BGame" width="700"/>
 ---
 
 ⭐️ Thanks for visiting my profile! Let’s build something amazing together. 🌟
