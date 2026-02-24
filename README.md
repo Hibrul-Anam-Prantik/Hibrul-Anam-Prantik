@@ -47,10 +47,12 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hibrul-Anam-Prantik&layout=compact&theme=tokyonight" height="180em" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats-seven-liard-94.vercel.app/api/top-langs/?username=Hibrul-Anam-Prantik&layout=compact&theme=tokyonight" height="180em" />
 </p>
-
 
 
 ### 🚧 Skills
@@ -112,7 +114,8 @@
 <p align="center"> <a href="https://leetcode.com/Anam_Prantik/"> <img height="220em" src="https://leetcard.jacoblin.cool/Anam_Prantik?theme=dark&font=ABeeZee&ext=heatmap" /> </a> <a href="https://codeforces.com/profile/Prantik_"> <img height="220em" src="https://codeforces-readme-stats.vercel.app/api/card?username=Prantik_&theme=dark&force_username=true" /> </a> </p>
 
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hibrul-Anam-Prantik&show_icons=true&count_private=true&theme=tokyonight" height="180em" /></p> 
+<p align="center"> <img src="https://github-readme-stats-seven-liard-94.vercel.app/api?username=Hibrul-Anam-Prantik&show_icons=true&theme=tokyonight" height="180em" /></p>  
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hibrul-Anam-Prantik&show_icons=true&count_private=true&theme=tokyonight" height="180em" /></p>  -->
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Hibrul-Anam-Prantik&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /> </p>
 
 ## 📫 Contact Me
