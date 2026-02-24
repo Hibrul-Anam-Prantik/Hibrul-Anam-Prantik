@@ -47,9 +47,9 @@
   </a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hibrul-Anam-Prantik&layout=compact&theme=tokyonight" height="180em" />
-</p> -->
+</p>  
 
 
 ### 🚧 Skills
