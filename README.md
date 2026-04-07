@@ -49,11 +49,11 @@
 
 <!-- <p align="center">
   <img src="https://github-readme-stats-seven-liard-94.vercel.app/api/top-langs/?username=Hibrul-Anam-Prantik&layout=compact&theme=tokyonight" height="180em" />
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hibrul-Anam-Prantik&layout=compact&theme=tokyonight" height="180em" />
-</p>  -->
+ 	<img src="https://raw.githubusercontent.com/Hibrul-Anam-Prantik/Prantik-Github-Language-Stats/master/generated/languages.svg#gh-dark-mode-only" />
+</p> 
 
 
 ### 🚧 Skills
@@ -118,10 +118,9 @@
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hibrul-Anam-Prantik&show_icons=true&count_private=true&theme=tokyonight" height="180em" /></p>  -->
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Hibrul-Anam-Prantik&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /> </p>
 
-<a href="https://github.com/Hibrul-Anam-Prantik/Prantik-Github-Language-Stats">
-  <img src="https://raw.githubusercontent.com/Hibrul-Anam-Prantik/Prantik-Github-Language-Stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/Hibrul-Anam-Prantik/Prantik-Github-Language-Stats/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+<p align="center"> <a href="https://github.com/Hibrul-Anam-Prantik/Prantik-Github-Language-Stats">
+  <img src="https://raw.githubusercontent.com/Hibrul-Anam-Prantik/Prantik-Github-Language-Stats/master/generated/overview.svg#gh-dark-mode-only" /> </a>
+</p>
 
 ## 📫 Contact Me
 
