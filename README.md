@@ -73,7 +73,7 @@
 </p>
 
 
-<p align="center"> <a href="https://leetcode.com/Anam_Prantik/"> <img height="220em" src="https://leetcard.jacoblin.cool/Anam_Prantik?theme=dark&font=ABeeZee&ext=heatmap" /> </a> <a href="https://codeforces.com/profile/Prantik_"> <img height="220em" src="https://codeforces-readme-stats.vercel.app/api/card?username=Prantik_&theme=dark&force_username=true" /> </a> </p>
+<p align="center"> <a href="https://leetcode.com/DxVOiD/"> <img height="220em" src="https://leetcard.jacoblin.cool/DxVOiD?theme=dark&font=ABeeZee&ext=heatmap" /> </a> <a href="https://codeforces.com/profile/Prantik_"> <img height="220em" src="https://codeforces-readme-stats.vercel.app/api/card?username=Prantik_&theme=dark&force_username=true" /> </a> </p>
 
 ## 📊 GitHub Stats
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hibrul-Anam-Prantik&show_icons=true&count_private=true&theme=tokyonight" height="180em" /></p>  -->
