@@ -77,7 +77,7 @@
 
 ## 📊 GitHub Stats
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hibrul-Anam-Prantik&show_icons=true&count_private=true&theme=tokyonight" height="180em" /></p>  -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hibrul-Anam-Prantik&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Stats" height="180" /><img src="https://streak-stats.demolab.com?user=Hibrul-Anam-Prantik&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hibrul-Anam-Prantik&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Stats" height="140" /><img src="https://streak-stats.demolab.com?user=Hibrul-Anam-Prantik&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="140"/> </p>
 
 <p align="center"> <a href="https://github.com/Hibrul-Anam-Prantik/Prantik-Github-Language-Stats">
   <img src="https://raw.githubusercontent.com/Hibrul-Anam-Prantik/Prantik-Github-Language-Stats/master/generated/overview.svg#gh-dark-mode-only" /> </a>
