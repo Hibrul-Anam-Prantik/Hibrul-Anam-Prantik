@@ -83,16 +83,11 @@
   <img src="https://raw.githubusercontent.com/Hibrul-Anam-Prantik/Prantik-Github-Language-Stats/master/generated/overview.svg#gh-dark-mode-only" /> </a>
 </p>
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hibrul-anam-prantik-32516b306" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hibrul.anam.prantik@g.bracu.ac.bd" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" />
-  </a>
+<a href="https://www.linkedin.com/in/hibrul-anam-prantik-32516b306" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="mailto:hibrul.anam.prantik@g.bracu.ac.bd" title="Email"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/></a>
 </p>
 
 ---
