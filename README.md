@@ -94,6 +94,25 @@
 
 ## 📂 Featured Projects
 
+### ⛩️ Aegis: Domain of Echoes — *Mainkar Chipay*
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)](https://www.opengl.org/)
+[![3D Game](https://img.shields.io/badge/3D%20Game-ff6600)](https://en.wikipedia.org/wiki/3D_computer_graphics)
+[![CSE423](https://img.shields.io/badge/CSE423-BRACU-red)](https://www.bracu.ac.bd/)
+
+A **3D arena-defense game** built entirely with **Python and PyOpenGL** — no game engine, no imported models, just raw OpenGL math and geometry.  
+You are the **Gatekeeper**. Survive the skeleton horde, reach 500 score, and face the **Final Boss** in a cinematic **Domain Expansion** sequence.
+
+- 🔧 **Tech Stack:** Python, PyOpenGL (GLUT, GLU), 3D Vector Math, Collision Detection
+- 📁 **Repo:** [Aegis-Domain-of-Echoes](https://github.com/Hibrul-Anam-Prantik/Aegis-Domain-of-Echoes)
+- ⬇️ **Download (macOS):** [MainkarChipay_mac.zip](https://github.com/Hibrul-Anam-Prantik/Aegis-Domain-of-Echoes/releases/download/v2.0/MainkarChipay_mac.zip)
+- 📸 **Preview:**
+
+  <img width="600" height="400" alt="Clip-GamePlay-AegisDoE" src="https://github.com/user-attachments/assets/17de2a28-2586-4079-a36a-03b85ab09bb3" />
+
+
+---
+
 ### 🎮 Game-TicTacToe
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)
 [![OOP](https://img.shields.io/badge/OOP-orange)](https://en.wikipedia.org/wiki/Object-oriented_programming)
@@ -105,8 +124,11 @@ This was my **first ever coding project**, created while learning the basics of 
 
 - 🔧 **Tech Stack:** Java (OOP, 2D Arrays)
 - 📁 **Repo:** [Game-TicTacToe](https://github.com/Hibrul-Anam-Prantik/Game-TicTacToe)
-- 📸 **Preview:**  
-  <img width="300" height="400" src="https://github.com/user-attachments/assets/0c48ee00-248e-4e7d-b71d-a23e0edbafa6" /> <img width="300" height="400" src="https://github.com/user-attachments/assets/754f2d50-460d-4201-8649-0f87e4dc6b2c" /> <img width="300" height="400" src="https://github.com/user-attachments/assets/e313a67d-8111-4f77-a003-8873a976275e" />
+- 📸 **Preview:**
+
+  | | | |
+  |---|---|---|
+  | <img width="200" height="300" src="https://github.com/user-attachments/assets/0c48ee00-248e-4e7d-b71d-a23e0edbafa6" /> | <img width="200" height="300" src="https://github.com/user-attachments/assets/754f2d50-460d-4201-8649-0f87e4dc6b2c" /> | <img width="200" height="300" src="https://github.com/user-attachments/assets/e313a67d-8111-4f77-a003-8873a976275e" /> |
 
 ---
 
