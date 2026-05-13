@@ -105,7 +105,9 @@ You are the **Gatekeeper**. Survive the skeleton horde, reach 500 score, and fac
 
 - 🔧 **Tech Stack:** Python, PyOpenGL (GLUT, GLU), 3D Vector Math, Collision Detection
 - 📁 **Repo:** [Aegis-Domain-of-Echoes](https://github.com/Hibrul-Anam-Prantik/Aegis-Domain-of-Echoes)
-- ⬇️ **Download (macOS):** [MainkarChipay_mac.zip](https://github.com/Hibrul-Anam-Prantik/Aegis-Domain-of-Echoes/releases/download/v2.0/MainkarChipay_mac.zip)
+- ⬇️ **Download (macOS):** [MainkarChipay.app](https://github.com/Hibrul-Anam-Prantik/Aegis-Domain-of-Echoes/releases/download/v2.0/MainkarChipay_mac.zip)
+- ⬇️ **Download (Windows):** [AegisDoE.exe](https://github.com/Hibrul-Anam-Prantik/Aegis-Domain-of-Echoes/releases/download/v2.0/AegisDoE.exe)
+
 - 📸 **Preview:**
 
   <img width="600" height="400" alt="Clip-GamePlay-AegisDoE" src="https://github.com/user-attachments/assets/17de2a28-2586-4079-a36a-03b85ab09bb3" />
