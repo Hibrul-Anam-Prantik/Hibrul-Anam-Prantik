@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=76F893&center=true&vCenter=true&width=700&lines=Prantik's+Github+Loading..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=76F893&center=true&vCenter=true&width=700&lines=Welcome+To+My+Github+..." alt="Typing SVG" />
 </p>
 
 ![GitHub GIF](githubgif.gif)
