@@ -13,7 +13,7 @@
 
 🤝 Always eager to collaborate on impactful projects
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hibrul-Anam-Prantik&base1000)
+![Profile Views](https://komarev.com/ghpvc/?username=Hibrul-Anam-Prantik&base=1337)
 
 ## 🧰 Languages & Skills
 ### 👨‍💻 Languages
