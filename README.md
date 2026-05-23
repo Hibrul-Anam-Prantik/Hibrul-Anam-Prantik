@@ -5,11 +5,13 @@
 ![GitHub GIF](githubgif.gif)
 
 ## 🚀 About Me
-🎓 Currently: Exploring Data Structures & Algorithms, DevOps, Machine Learning, and AI
+🎓 Currently: Exploring NLP, LLM, Machine Learning, and AI
+
+🔬 Research Interests: LLM Security & Data Science
 
 💻 Passionate about Problem Solving & Learning new things
 
-🌱 Learning Web Development and advanced OOP design
+🚀 Focus: Building useful solutions & advanced OOP design
 
 🤝 Always eager to collaborate on impactful projects
 
