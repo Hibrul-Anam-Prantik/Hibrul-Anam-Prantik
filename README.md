@@ -5,6 +5,9 @@
 ![GitHub GIF](githubgif.gif)
 
 ## 🚀 About Me
+
+🌐 **Portfolio:** [https://portfolio-chi-pink-8k0phi2a52.vercel.app/](https://portfolio-chi-pink-8k0phi2a52.vercel.app/)
+
 🎓 Currently: Exploring NLP, LLM, Machine Learning, and AI
 
 🔬 Research Interests: LLM Security & Data Science
